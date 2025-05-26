@@ -8,8 +8,6 @@ package com.mycompany.register_and_login;
  *
  * @author RC_Student_lab
  */
-import java.util.Scanner;
-import java.util.regex.Pattern;
 
 class Login {
     
